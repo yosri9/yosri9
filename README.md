@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yosri abdedayem
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning project management, ui ux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on solving real world problem
 - 📫 How to reach me : contact me on linkedin
 
 <!---
